@@ -1,1 +1,1 @@
-# neptunomyces_genometest
+# neptunomyces_genome
